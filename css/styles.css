@@ -65,6 +65,7 @@ img {
 .li-header-item {
   gap: 40px;
   margin-right: 40px;
+  padding: 24px 0 24px;
 }
 .address {
   font-style: normal;
@@ -80,9 +81,8 @@ img {
 }
 .address-header-item {
   display: flex;
-}
-.li-address-item {
-  padding: 24px 0 24px;
+  gap: 40px;
+  margin: 40px;
 }
 /*-------------------------main-------------------*/
 .sec {
