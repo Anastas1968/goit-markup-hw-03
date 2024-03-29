@@ -61,10 +61,10 @@ img {
 }
 .nav-header-item {
   display: flex;
+  gap: 40px;
+  margin: 40px;
 }
 .li-header-item {
-  gap: 40px;
-  margin-right: 40px;
   padding: 24px 0 24px;
 }
 .address {
@@ -83,6 +83,9 @@ img {
   display: flex;
   gap: 40px;
   margin: 40px;
+}
+.li-address-item {
+  padding: 24px 0 24px;
 }
 /*-------------------------main-------------------*/
 .sec {
