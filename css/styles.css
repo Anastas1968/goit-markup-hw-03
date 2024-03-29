@@ -12,11 +12,19 @@ header {
   line-height: 24px;
   letter-spacing: 0.02em;
 }
+.header {
+  border-bottom: 1px solid #e7e9fc;
+}
 ul {
   list-style-type: none;
 }
 a {
   text-decoration: none;
+}
+.container {
+  display: flex;
+  width: 1158px;
+  margin: 0 auto;
 }
 .log {
   font-family: "Raleway", sans-serif;
