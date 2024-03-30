@@ -154,7 +154,7 @@ img {
   gap: 24px;
 }
 .li-two-item {
-  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 .three {
   background-color: #f4f4fd;
