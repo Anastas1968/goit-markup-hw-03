@@ -138,8 +138,6 @@ img {
   display: flex;
   gap: 24px;
 }
-.features .visually-hidden {
-}
 .two-item {
   width: calc((100% - 72px) / 4);
 }
