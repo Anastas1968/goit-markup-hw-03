@@ -184,7 +184,7 @@ img {
 .paragraph {
   text-align: center;
 }
-.card {
+.img-card {
   width: calc((100% - 72px) / 4);
 }
 .four {
