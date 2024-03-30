@@ -133,6 +133,19 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.two {
+  padding: 120px 0;
+  display: flex;
+  gap: 24px;
+}
+.features .visually-hidden {
+}
+.two-item {
+  width: calc((100% - 72px) / 4);
+}
+.li-two-item {
+  margin-bottom: 8px;
+}
 .three {
   background-color: #f4f4fd;
 }
