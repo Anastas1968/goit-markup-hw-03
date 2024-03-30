@@ -158,6 +158,7 @@ img {
 }
 .three {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .medium-title {
   font-size: 36px;
@@ -166,6 +167,14 @@ img {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
+}
+.three-item {
+  display: flex;
+  gap: 24px;
+}
+.card {
+  width: calc((100% - 72px) / 4);
 }
 .footer {
   background-color: #2e2f42;
