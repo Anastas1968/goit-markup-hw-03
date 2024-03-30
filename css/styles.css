@@ -179,6 +179,7 @@ img {
 .three-item {
   display: flex;
   gap: 24px;
+  border-radius: 0px 0px 4px 4px;
 }
 .paragraph {
   text-align: center;
