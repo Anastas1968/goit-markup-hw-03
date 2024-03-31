@@ -152,6 +152,8 @@ img {
 .two-item {
   display: flex;
   gap: 24px;
+  padding-right: 0;
+  padding-left: 0;
 }
 .li-two-item {
   width: calc((100% - 72px) / 4);
@@ -196,6 +198,8 @@ img {
   column-gap: 24px;
   flex-wrap: wrap;
   row-gap: 48px;
+  padding-right: 0;
+  padding-left: 0;
 }
 .li-four-item {
 }
