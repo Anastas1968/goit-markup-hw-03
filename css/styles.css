@@ -5,8 +5,6 @@ body {
   font-size: ;
 }
 header {
-  font-weight: 500;
-  background-color: #e7e9fc;
   color: #434455;
   font-size: 16px;
   line-height: 24px;
@@ -25,6 +23,12 @@ a {
 }
 img {
   display: block;
+}
+.li-header-item {
+  font-weight: 400;
+}
+.li-address-item {
+  font-weight: 500;
 }
 /*-----------------HEADER-----------------------*/
 .container-header {
