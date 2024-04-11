@@ -113,6 +113,9 @@ img {
   letter-spacing: 0.02em;
   padding: 188px 0;
 }
+.container {
+  align-content: center;
+}
 .effective {
   font-size: 56px;
   line-height: 1.07;
