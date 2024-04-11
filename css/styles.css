@@ -12,6 +12,18 @@ header {
 }
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
 }
 a {
   text-decoration: none;
@@ -33,6 +45,8 @@ img {
 /*-----------------HEADER-----------------------*/
 .container-header {
   display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -67,7 +81,6 @@ img {
 .nav-header-item {
   display: flex;
   gap: 40px;
-  margin: 40px;
 }
 .li-header-item {
 }
@@ -206,6 +219,7 @@ img {
   margin: 0;
 }
 .li-four-item {
+  width: calc((100% - 72px) / 3);
 }
 .img-four {
   width: calc((100% - 72px) / 3);
