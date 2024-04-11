@@ -202,12 +202,12 @@ img {
 }
 .title-three {
   margin-bottom: 8px;
-  text-align: center;
 }
 .three-item {
   display: flex;
   gap: 24px;
   border-radius: 0px 0px 4px 4px;
+  text-align: center;
 }
 .paragraph {
   text-align: center;
@@ -269,5 +269,4 @@ img {
   color: #4d5ae5;
   margin-right: 76px;
   display: inline-block;
-  margin-bottom: 16px;
 }
